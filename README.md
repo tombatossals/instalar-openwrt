@@ -1,4 +1,4 @@
-instalar-openwrt
-================
+openwrt-vpnc
+============
 
-Tutorial explicativo sobre cómo instalar OpenWRT en tu router casero
+Instalación y configuración de un router con OpenWRT y VPNC
