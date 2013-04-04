@@ -1,4 +1,6 @@
-openwrt-vpnc
-============
+instalar-openwrt
+================
 
-Instalación y configuración de un router con OpenWRT y VPNC
+Tutorial de instalación de OpenWRT en nuestro router casero.
+
+http://tombatossals.github.com/instalar-openwrt
